@@ -1,0 +1,9 @@
+comandos más usados en git
+
+git status
+git add *
+git commit -m ".."
+git push 
+git pull 
+git log 
+git checkout
